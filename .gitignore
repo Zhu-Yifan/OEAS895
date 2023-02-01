@@ -1,0 +1,4 @@
+.gitignore
+data/city_temperature.csv
+figures/
+notebook/
