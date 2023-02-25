@@ -2,10 +2,7 @@
 
 ## Description
 
-This repository contains homework/exercises from the course <OEAS 895: Advanced Data Science Techniques in Ocean, Earth and Environmental Sciences>.
-
-
-3 credits, Spring 2023
+This repository contains homework/exercises from the course <OEAS 895: Advanced Data Science Techniques in Ocean, Earth and Environmental Sciences> in Spring 2023.
 
 Instructor: Dr. Sophie Clayton
 
