@@ -1,5 +1,10 @@
 # .gitignore
 data/city_temperature.csv
+data/kuro_BGCargo_noNO3.csv
 figures/
 notebook/
 HW2/.ipynb_checkpoints/
+HW2/HW2_feedback_Zhu.rtf
+HW3/.ipynb_checkpoints/
+HW3/HW3_feedback_Buckley_Zhu.rtf
+HW4/.ipynb_checkpoints/
