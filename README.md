@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository contains my homework/exercises from the course <OEAS 895: Advanced Data Science Techniques in Ocean, Earth and Environmental Sciences> in Spring 2023. If you are interested in the course materials, please refer to https://github.com/sophieclayton/OEAS805_envdatasci
+This repository contains my homework/exercises from the course <OEAS 895: Advanced Data Science Techniques in Ocean, Earth and Environmental Sciences> in Spring 2023. If you are interested in the course materials, please refer to Dr. Sophie Clayton's GitHub repository https://github.com/sophieclayton/OEAS805_envdatasci
 
 
 ## Table of Contents
